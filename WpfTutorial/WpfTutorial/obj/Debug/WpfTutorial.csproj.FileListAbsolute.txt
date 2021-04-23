@@ -1,0 +1,14 @@
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe.config
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.pdb
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csprojAssemblyReference.cache
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.baml
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\App.g.cs
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.cache
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.g.resources
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.Properties.Resources.resources
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csproj.GenerateResource.cache
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csproj.CoreCompileInputs.cache
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.exe
+C:\Users\infin\Desktop\ResourceData\learn XAML\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.pdb
