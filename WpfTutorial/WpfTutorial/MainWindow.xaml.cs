@@ -21,6 +21,8 @@ namespace WpfTutorial
     /// </summary>
     public partial class MainWindow : Window
     {
+        string usersName;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -46,6 +48,17 @@ namespace WpfTutorial
         {
             SaveFileDialog saveDlg = new SaveFileDialog();
             saveDlg.ShowDialog();
+        }
+
+        private void SendButton_Click(object sender, RoutedEventArgs e)
+        {
+            usersName = UsersName.Text;
+            MessageBox.Show($"Hello {usersName}");
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
